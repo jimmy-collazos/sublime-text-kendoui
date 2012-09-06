@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoListView(${2:\{
+  dataSource   : ${3:\{\}},
+  template     : ${4:""}
+\}});]]></content>
+  <tabTrigger>k-ui-listView</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoListView(opt)</description>
+</snippet>

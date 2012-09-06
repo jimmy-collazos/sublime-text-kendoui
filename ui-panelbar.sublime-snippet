@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoPanelBar(${2:\{
+  expandMode: ${3:"single"} //default "multiple"
+\}});]]></content>
+  <tabTrigger>k-ui-panelBar</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoPanelBar(opt)</description>
+</snippet>

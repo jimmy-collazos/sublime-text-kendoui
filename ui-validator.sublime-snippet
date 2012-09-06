@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoValidator(${2:\{
+  rules   : ${3:\{\}},
+  messages  : ${4:\{\}}
+\}});]]></content>
+  <tabTrigger>k-ui-validator</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoValidator(opt)</description>
+</snippet>

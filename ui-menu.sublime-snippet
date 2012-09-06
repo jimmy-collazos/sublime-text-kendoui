@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoMenu(${2:\{
+  orientation: ${3:"vertical"} //default is "horizontal"
+\}});]]></content>
+  <tabTrigger>k-ui-menu</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoMenu(opt)</description>
+</snippet>

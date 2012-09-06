@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[kendo.data.Model.define(${1:\{
+  id      : ${2:""},
+  fields  : ${3:\{\}}
+\}});]]></content>
+  <tabTrigger>k-data-model</tabTrigger>
+  <scope>source.js</scope>
+  <description>kendo.data.Model.define(opt)</description>
+</snippet>

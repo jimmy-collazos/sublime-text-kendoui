@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[\$("${1:#rangeSlider}").data("kendoRangeSlider");]]></content>
+  <tabTrigger>k-ui-rangeSlider</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).data("kendoRangeSlider")</description>
+</snippet>

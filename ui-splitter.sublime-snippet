@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoSplitter(${2:\{
+  orientation : ${3:"vertical", //default "horizontal"
+  panes       : ${4:[]}
+\}});]]></content>
+  <tabTrigger>k-ui-splitter</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoSplitter(opt)</description>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoSlider(${2:\{
+  orientation   : ${3:"vertical", //default "horizontal"
+  min           : ${4:-20},
+  max           : ${5:20},
+  smallStep     : ${6:1},
+  largeStep     : ${7:20},
+  showButtons   : ${8:false}
+\}});]]></content>
+  <tabTrigger>k-ui-slider</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoSlider(opt)</description>
+</snippet>

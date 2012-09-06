@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[kendo.data.ObservableArray(${1:[]});]]></content>
+  <tabTrigger>k-data-observableArray</tabTrigger>
+  <scope>source.js</scope>
+  <description>kendo.data.ObservableArray(opt)</description>
+</snippet>

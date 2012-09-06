@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.1",
+  "packages": [
+    {
+      "name": "KendoUI-snippets",
+      "description": "KendoUI snippets for Sublime Text",
+      "author": "@acido69",
+      "homepage": "https://github.com/acido69/sublime-text-kendoui",
+      "last_modified": "2012-09-04 13:29:27",
+      "platforms": {
+        "*": [
+          {
+            "version": "0.1",
+            "url": "https://github.com/acido69/sublime-text-kendoui"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoCalendar(${2:\{
+  depth   : ${3:"month"},
+  footer  : ${4:'#= kendo.toString(data,"D") #'},
+  format  : ${5:kendo.culture().calendar.patterns.d},
+  max     : ${6:new Date(2099, 11, 31)},
+  min     : ${7:new Date(1900, 0, 1)},
+  start   : ${8:"month"},
+  value   : ${9:null}
+\}});]]></content>
+  <tabTrigger>k-ui-calendar</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoCalendar(opt)</description>
+</snippet>

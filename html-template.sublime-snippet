@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[<script id="${1}" type="text/x-kendo-tmpl">
+    ${0}
+</script>]]></content>
+  <tabTrigger>k-template</tabTrigger>
+  <scope>text.html</scope>
+  <description> script type="text/x-kendo-tmpl" </description>
+</snippet>

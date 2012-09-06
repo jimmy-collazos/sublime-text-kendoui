@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoPager(${2:\{
+  dataSource : ${3:\{\}}
+\}});]]></content>
+  <tabTrigger>k-ui-pager</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoPager(opt)</description>
+</snippet>

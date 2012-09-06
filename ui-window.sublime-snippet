@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoWindow(${2:\{
+  title: ${3:""}
+\}});]]></content>
+  <tabTrigger>k-ui-window</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoWindow(opt)</description>
+</snippet>

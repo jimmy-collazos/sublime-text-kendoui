@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoUpload(${2:\{
+  multiple : ${3:false}//default true
+\}});]]></content>
+  <tabTrigger>k-ui-upload</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoUpload(opt)</description>
+</snippet>

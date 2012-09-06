@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoAutoComplete(${2:\{
+  dataSource    : ${3:kendo.data.DataSource},
+  dataTextField : ${4:null},
+  delay         : ${5:200},
+  enable        : ${6:true},
+  filter        : ${7:"startswith"},
+  height        : ${8:200},
+  minLength     : ${9:1},
+  suggest       : ${10:false}
+\}});]]></content>
+  <tabTrigger>k-ui-autoComplete</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoAutoComplete(opt)</description>
+</snippet>

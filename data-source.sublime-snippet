@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[kendo.data.DataSource(${1:\{
+  data : ${2:[]}
+\}});]]></content>
+  <tabTrigger>k-data-source</tabTrigger>
+  <scope>source.js</scope>
+  <description>kendo.data.DataSource(opt)</description>
+</snippet>

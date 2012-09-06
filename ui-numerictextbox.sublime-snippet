@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoNumericTextBox(${2:\{
+  min     : ${3:0},
+  max     : ${4:1},
+  step    : ${5:0.1},
+  decimals: ${6:1}
+\}});]]></content>
+  <tabTrigger>k-ui-numericTextBox</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoNumericTextBox(opt)</description>
+</snippet>

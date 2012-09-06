@@ -1,4 +1,4 @@
 sublime-text-kendoui
 ====================
 
-kendo snippets for Sublime Text
+KendoUI snippets for Sublime Text

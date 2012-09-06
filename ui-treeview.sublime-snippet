@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoTreeView(${2:\{
+  dataSource: ${3:\{\}},
+  dataTextField: ${4:""}
+\}});]]></content>
+  <tabTrigger>k-ui-treeView</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoTreeView(opt)</description>
+</snippet>

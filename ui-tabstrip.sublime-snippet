@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoTabStrip(${2:\{
+  collapsible: ${3:true} //default false
+\}});]]></content>
+  <tabTrigger>k-ui-tabStrip</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoTabStrip(opt)</description>
+</snippet>

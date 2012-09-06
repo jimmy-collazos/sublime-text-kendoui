@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoTimePicker(${2:\{
+  format        : ${3:"h:mm tt"},
+  parseFormats  : ${4:["HH:mm"]},
+  min           : ${5},
+  max           : ${6},
+  interval      : ${7}
+\}});]]></content>
+  <tabTrigger>k-ui-timePicker</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoTimePicker(opt)</description>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoDropDownList(${2:\{
+  autoBind        : ${3:true},
+  dataSource      : ${4:kendo.data.dataSource},
+  dataTextField   : ${5:"text"},
+  dataValueField  : ${6:"value"},
+  delay           : ${7:500},
+  enable          : ${8:true},
+  height          : ${9:200},
+  index           : ${10:0}
+\}});]]></content>
+  <tabTrigger>.k-ui-dropDownList</tabTrigger>
+  <description>$(e).kendoDropDownList(opt)</description>
+</snippet>

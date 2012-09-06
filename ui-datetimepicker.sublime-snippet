@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoDateTimePicker(${2:\{
+    parseFormats:${3:["yyyy/MM/dd"]}
+\}});]]></content>
+  <tabTrigger>k-ui-dateTimePicker</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoDateTimePicker(opt)</description>
+</snippet>

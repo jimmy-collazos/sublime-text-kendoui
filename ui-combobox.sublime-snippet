@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[\$("${1}").kendoComboBox(${2:\{
+  autoBind        : ${3:true},
+  dataSource      : ${4:kendo.data.dataSource},
+  dataTextField   : ${5:"text"},
+  dataValueField  : ${6:"value"},
+  delay           : ${7:200},
+  enable          : ${8:true},
+  filter          : ${9:"none"},
+  height          : ${10:200},
+  highlightFirst  : ${11:true},
+  index           : ${12:-1},
+  minLength       : ${13:1},
+  suggest         : ${14:true}
+\}});]]></content>
+  <tabTrigger>k-ui-comboBox</tabTrigger>
+  <scope>source.js</scope>
+  <description>$(e).kendoComboBox(opt)</description>
+</snippet>

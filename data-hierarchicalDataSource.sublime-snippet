@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[kendo.data.HierarchicalDataSource(${1:\{
+  data: ${2:[]}
+\}});]]></content>
+  <tabTrigger>k-data-hierarchicalDataSource</tabTrigger>
+  <scope>source.js</scope>
+  <description>kendo.data.HierarchicalDataSource(opt)</description>
+</snippet>
